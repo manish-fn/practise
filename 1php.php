@@ -18,7 +18,7 @@ function mytext() {
 }
 mytext();
 echo $var3;
-echo "Manish";
+echo "testing";
 ?>
 
 </body>
