@@ -7,6 +7,7 @@ $var1 = 10;
 $var2 = 5;
 $var = $var1 + $var2;
 global $var3;
+echo "PRACTISE";
 $text = "script!";
 echo "<h4>My first PHP </h4>" . $text ." 	:)" . $var;
 
